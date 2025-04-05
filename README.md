@@ -3,7 +3,7 @@
 
 
 
-> **Synapse** connects human knowledge with AI insights using Google Gemini API. Built for *Technov8 Hackathon* with PHP/MySQL backend.
+> **Synapse** connects human knowledge with AI insights using Google Gemini API. Built for with PHP/MySQL backend.
 
 ---
 
