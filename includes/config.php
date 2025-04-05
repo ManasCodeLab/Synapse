@@ -1,6 +1,6 @@
 <?php
 
-define('GEMINI_API_KEY', 'AIzaSyCyOW9482Dtm0V8fzkfvVWhg2ITqPFB5Io');
+define('GEMINI_API_KEY', '__YOUR_KEY__');
 define('MAX_TOKENS', 1000);
 define('TEMPERATURE', 0.7);
 
